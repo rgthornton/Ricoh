@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="331f89a2db969f00c18d5275ca961970" sys_domain="global" table="x_snc_cw_legal_custodychain" version="3" view="Add_Custody">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>3f1f89a2db969f00c18d5275ca961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_evidencenumber</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>b31f89a2db969f00c18d5275ca961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_releasedbyname</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>731f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_releasedbycompany</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>f31f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_receivedbyname</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>771f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_receivedbycompany</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>f71f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>7b1f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_custodynumber</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>fb1f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>7f1f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dateexchanged</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>ff1f89a2db969f00c18d5275ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_timeexchanged</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>731fc9a2db969f00c18d5275ca961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_courierused</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:47</sys_created_on>
+            <sys_id>f31fc9a2db969f00c18d5275ca961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cw_legal_custodychain" sys_domain="global" view="631f89a2db969f00c18d5275ca96196d">331f89a2db969f00c18d5275ca961970</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_cw_legal_custodychain</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>331f89a2db969f00c18d5275ca961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_cw_legal_custodychain</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_ui_section_331f89a2db969f00c18d5275ca961970</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Add Custody" name="Add_Custody">631f89a2db969f00c18d5275ca96196d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_cw_legal_custodychain" version="2" view="custody_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_cw_legal_custodychain" element="NULL" name="x_snc_cw_legal_custodychain" parent="NULL" relationship="NULL" sys_domain="global" view="2bee8d62db969f00c18d5275ca961940">e0fec5a2db969f00c18d5275ca9619ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:01</sys_created_on>
+            <sys_id>68fec5a2db969f00c18d5275ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_courierused</element>
+            <list_id display_value="x_snc_cw_legal_custodychain" element="NULL" name="x_snc_cw_legal_custodychain" parent="NULL" relationship="NULL" sys_domain="global" view="2bee8d62db969f00c18d5275ca961940">e0fec5a2db969f00c18d5275ca9619ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:01</sys_created_on>
+            <sys_id>e8fec5a2db969f00c18d5275ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_custodynumber</element>
+            <list_id display_value="x_snc_cw_legal_custodychain" element="NULL" name="x_snc_cw_legal_custodychain" parent="NULL" relationship="NULL" sys_domain="global" view="2bee8d62db969f00c18d5275ca961940">e0fec5a2db969f00c18d5275ca9619ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:01</sys_created_on>
+            <sys_id>6cfec5a2db969f00c18d5275ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_cw_legal_custodychain</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 18:56:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0fec5a2db969f00c18d5275ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_cw_legal_custodychain</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_cw_legal_custodychain_custody_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 18:56:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Custody List" name="custody_list">2bee8d62db969f00c18d5275ca961940</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

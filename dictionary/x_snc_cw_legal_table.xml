@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Evidence" max_length="40" name="x_snc_cw_legal_table" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Client Reference Number" max_length="40" name="client_reference_number" type="string"/>
+        <element choice="1" default="cd/dvd" label="Evidence type" mandatory="true" max_length="40" name="evidence_type" type="choice">
+            <choice>
+                <element label="Paper Documents" sequence="0" value="paper documents"/>
+                <element label="USB" sequence="1" value="usb"/>
+                <element label="External Drive" sequence="2" value="external drive"/>
+                <element label="CD/DVD" sequence="3" value="cd/dvd"/>
+                <element label="Files via CL EFT" sequence="4" value="files via cl eft"/>
+                <element label="FTP" sequence="5" value="ftp"/>
+                <element label="Files via Email" sequence="6" value="files via email"/>
+                <element label="CL Hosted Database" sequence="7" value="cl hosted database"/>
+                <element label="Cloud Storage" sequence="8" value="cloud storage"/>
+                <element label="Internal Hard Drive" sequence="9" value="internal hard drive"/>
+                <element label="Cell Phone" sequence="10" value="cell phone"/>
+                <element label="Laptop" sequence="11" value="laptop"/>
+                <element label="Tablet" sequence="12" value="tablet"/>
+            </choice>
+        </element>
+        <element label="Account" max_length="32" name="u_account_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Box number" max_length="40" name="u_boxnumber" type="string"/>
+        <element label="Characteristics" max_length="40" name="u_characteristics" type="longint"/>
+        <element attributes="edge_encryption_enabled=true" label="Current storage" max_length="40" name="u_cstorage" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Custodian" max_length="40" name="u_custodian" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="File credentials" max_length="40" name="u_filecredentials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FTP Credentials" max_length="40" name="u_ftpcredentials" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FTP Login" max_length="40" name="u_ftplogin" type="string"/>
+        <element label="test" max_length="65536" name="u_html_1" type="html"/>
+        <element label="Notes" max_length="40" name="u_notes" type="longint"/>
+        <element label="Project Manager" max_length="32" name="u_pm_4" type="string"/>
+        <element label="Project" max_length="32" name="u_project_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Received data size" max_length="40" name="u_rdatasize" type="string"/>
+        <element label="test" max_length="32" name="u_reference_1" reference="core_company" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1gb" label="Storage Capacity" max_length="40" name="u_storagecapacity" type="string">
+            <choice>
+                <element label="1GB" sequence="0" value="1gb"/>
+                <element label="2GB" sequence="1" value="2gb"/>
+                <element label="4GB" sequence="2" value="4gb"/>
+                <element label="8GB" sequence="3" value="8gb"/>
+                <element label="16GB" sequence="4" value="16gb"/>
+                <element label="32GB" sequence="5" value="32gb"/>
+                <element label="64GB" sequence="6" value="64gb"/>
+                <element label="128GB" sequence="7" value="128gb"/>
+                <element label="256GB" sequence="8" value="256gb"/>
+                <element label="512GB" sequence="9" value="512gb"/>
+                <element label="1TB" sequence="10" value="1tb"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="USB/HD Manufacturer" max_length="40" name="u_usbhdmanufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="USB/HD Serial Number" max_length="40" name="u_usbhdserialnumber" type="string"/>
+    </element>
+</database>

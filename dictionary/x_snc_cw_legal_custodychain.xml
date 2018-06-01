@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Custody" max_length="40" name="x_snc_cw_legal_custodychain" sizeclass="6" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" choice="1" label="Courier" max_length="1024" name="u_courier" type="glide_list">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="canada post" label="Courier" max_length="40" name="u_courierused" type="string">
+            <choice>
+                <element label="Canada Post" sequence="0" value="canada post"/>
+                <element label="UPS" sequence="1" value="ups"/>
+                <element label="Fedex" sequence="2" value="fedex"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Custody number" max_length="40" name="u_custodynumber" read_only="true" type="string"/>
+        <element label="Date/time exchanged" max_length="40" name="u_dateexchanged" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Evidence number" max_length="1024" name="u_evidencenumber" read_only="true" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Project" max_length="1024" name="u_project" read_only="true" type="url"/>
+        <element label="Received By (Company)" max_length="32" name="u_receivedbycompany" reference="core_company" type="reference"/>
+        <element label="Received By (Name)" max_length="32" name="u_receivedbyname" reference="sys_user" type="reference"/>
+        <element label="Released By (Company)" max_length="32" name="u_releasedbycompany" reference="core_company" type="reference"/>
+        <element label="Released by(Name)" max_length="32" name="u_releasedbyname" reference="sys_user" type="reference"/>
+        <element label="Time exchanged" max_length="40" name="u_timeexchanged" type="glide_time"/>
+    </element>
+</database>

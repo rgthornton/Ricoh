@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="evidence_type" table="x_snc_cw_legal_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paper Documents</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e734e61db9adb00c18d5275ca96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>paper documents</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USB</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22734e61db9adb00c18d5275ca961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>usb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>External Drive</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>external drive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CD/DVD</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>cd/dvd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Files via CL EFT</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>files via cl eft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FTP</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+            <value>ftp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Files via Email</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>files via email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CL Hosted Database</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae734e61db9adb00c18d5275ca961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>cl hosted database</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Storage</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66734e61db9adb00c18d5275ca961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>cloud storage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internal Hard Drive</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66734e61db9adb00c18d5275ca961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>internal hard drive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cell Phone</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66734e61db9adb00c18d5275ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>cell phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66734e61db9adb00c18d5275ca96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>laptop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>evidence_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tablet</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66734e61db9adb00c18d5275ca96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:36</sys_updated_on>
+            <value>tablet</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>evidence_type</element>
+            <name>x_snc_cw_legal_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-25 20:11:35</sys_created_on>
+            <sys_id>aa734e61db9adb00c18d5275ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>evidence_type</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cw_legal_table_evidence_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-25 20:11:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

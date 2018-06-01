@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_custodian" label="Custodian" language="en" table="x_snc_cw_legal_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_custodian</element>
+            <help/>
+            <hint/>
+            <label>Custodian</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_table</name>
+            <plural>Custodians</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 11:50:43</sys_created_on>
+            <sys_id>3a9d2bd2db529f00c18d5275ca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Custodian</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cw_legal_table_u_custodian_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 11:50:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
