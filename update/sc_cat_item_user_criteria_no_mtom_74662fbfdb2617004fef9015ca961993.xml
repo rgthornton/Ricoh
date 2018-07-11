@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Commonwealth Legal">30662fbfdb2617004fef9015ca961992</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-14 13:25:46</sys_created_on>
+        <sys_id>74662fbfdb2617004fef9015ca961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_74662fbfdb2617004fef9015ca961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-14 13:25:46</sys_updated_on>
+        <user_criteria display_value="SNC External">642c2f6edbc21300c18d5275ca96199a</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

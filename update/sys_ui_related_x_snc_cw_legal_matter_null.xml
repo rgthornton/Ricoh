@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_cw_legal_matter" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Matter - Default view" name="x_snc_cw_legal_matter" related_list="NULL" sys_domain="global" view="Default view">b841daa3db66d3004fef9015ca9619ac</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_cw_legal_project.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 12:35:22</sys_created_on>
+            <sys_id>7041daa3db66d3004fef9015ca9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 12:35:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Matter - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_cw_legal_matter</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 12:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b841daa3db66d3004fef9015ca9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>matter - Default view</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_cw_legal_matter_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 12:35:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

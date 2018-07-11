@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_assigned_to" label="Assigned To" language="en" table="x_snc_cw_legal_matter">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_assigned_to</element>
+            <help/>
+            <hint/>
+            <label>Assigned To</label>
+            <language>en</language>
+            <name>x_snc_cw_legal_matter</name>
+            <plural>Assigned Tos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 18:28:41</sys_created_on>
+            <sys_id>0c78f5eadbfa1f00c18d5275ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned To</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cw_legal_matter_u_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 18:28:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

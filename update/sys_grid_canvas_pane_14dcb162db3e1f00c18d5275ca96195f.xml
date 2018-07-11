@@ -2,22 +2,22 @@
 <record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab">6c2add2edb969f00c18d5275ca96196a</grid_canvas>
-        <height>10</height>
-        <portal_widget display_value="Created 2018-05-30 06:02:13">61215a47db121340c18d5275ca961901</portal_widget>
+        <height>15</height>
+        <portal_widget display_value="Created 2018-06-22 11:47:49">d0dcb162db3e1f00c18d5275ca96195c</portal_widget>
         <posx>0</posx>
-        <posy>9</posy>
+        <posy>19</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-30 13:02:13</sys_created_on>
-        <sys_id>e9215287db121340c18d5275ca961952</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2018-06-22 18:47:49</sys_created_on>
+        <sys_id>14dcb162db3e1f00c18d5275ca96195f</sys_id>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>6c2add2edb969f00c18d5275ca96196a</sys_name>
         <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
         <sys_policy/>
         <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_e9215287db121340c18d5275ca961952</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_14dcb162db3e1f00c18d5275ca96195f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-30 13:02:18</sys_updated_on>
+        <sys_updated_on>2018-07-10 15:51:36</sys_updated_on>
         <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

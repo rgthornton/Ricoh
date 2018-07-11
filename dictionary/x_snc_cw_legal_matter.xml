@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Matter" max_length="40" name="x_snc_cw_legal_matter" sizeclass="13" type="collection">
+        <element label="Description" max_length="60" name="matter_description" type="string"/>
+        <element label="Assigned To" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Colour2" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="red" sequence="0" value="red"/>
+                <element label="green" sequence="1" value="green"/>
+                <element label="blue" sequence="2" value="blue"/>
+            </choice>
+        </element>
+    </element>
+</database>

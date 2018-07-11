@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_cw_legal_project" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="x_snc_cw_legal_project" related_list="NULL" sys_domain="global" view="Default view">8eff0d52db3edb00c18d5275ca961953</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:e304f8c0db7a17004fef9015ca961905</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 20:53:24</sys_created_on>
+            <sys_id>caff0d52db3edb00c18d5275ca961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 20:53:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="x_snc_cw_legal_project" related_list="NULL" sys_domain="global" view="Default view">8eff0d52db3edb00c18d5275ca961953</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>time_card.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 20:53:24</sys_created_on>
+            <sys_id>06ff0d52db3edb00c18d5275ca961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 20:53:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Default view" name="x_snc_cw_legal_project" related_list="NULL" sys_domain="global" view="Default view">8eff0d52db3edb00c18d5275ca961953</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_time_worked.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 20:53:24</sys_created_on>
+            <sys_id>0aff0d52db3edb00c18d5275ca961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 20:53:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Project - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_cw_legal_project</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-21 20:53:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8eff0d52db3edb00c18d5275ca961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project - Default view</sys_name>
+            <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_cw_legal_project_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-21 20:53:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

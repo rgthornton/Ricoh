@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_cw_legal_project">x_snc_cw_legal_project</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 12:03:44</sys_created_on>
+        <sys_id>d10a466bdb26d3004fef9015ca96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sys_number_d10a466bdb26d3004fef9015ca96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 12:03:44</sys_updated_on>
+    </sys_number>
+</record_update>

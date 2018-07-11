@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_hp_cascading_filter">
+    <sys_ui_hp_cascading_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cascading_filter_reference_field>sys_id</cascading_filter_reference_field>
+        <conditions/>
+        <display_field>u_project_3</display_field>
+        <look_up_name>Evidence</look_up_name>
+        <name>Evidence</name>
+        <parent/>
+        <publisher_reference display_value="CW ">f5e17114dbdb1f404fef9015ca96199c</publisher_reference>
+        <sys_class_name>sys_ui_hp_cascading_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 14:47:21</sys_created_on>
+        <sys_id>17323914dbdb1f404fef9015ca9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Evidence</sys_name>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sys_ui_hp_cascading_filter_17323914dbdb1f404fef9015ca9619d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 14:47:21</sys_updated_on>
+        <table>x_snc_cw_legal_table</table>
+    </sys_ui_hp_cascading_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=17323914dbdb1f404fef9015ca9619d6"/>
+</record_update>

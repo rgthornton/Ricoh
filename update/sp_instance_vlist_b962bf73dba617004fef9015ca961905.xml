@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>short_description</display_field>
+        <field_list/>
+        <filter table="kb_knowledge">kb_knowledge_base=2b292926c3302200e7c7d44d81d3ae10^active=true^workflow_state=published^EQ<item display_table="kb_knowledge_base" display_value="Consumer Service" endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="2b292926c3302200e7c7d44d81d3ae10"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="workflow_state" goto="false" newquery="false" operator="=" or="false" value="published"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">fd62bf73dba617004fef9015ca961903</sp_column>
+        <sp_page display_value="kb_article">dea5792147132100ba13a5554ee4902d</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-14 14:18:16</sys_created_on>
+        <sys_id>b962bf73dba617004fef9015ca961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Most Viewed Articles</sys_name>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sp_instance_vlist_b962bf73dba617004fef9015ca961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-14 14:18:16</sys_updated_on>
+        <table>kb_knowledge</table>
+        <title>Most Viewed Articles</title>
+        <url/>
+        <widget_parameters><![CDATA[{  
+   "always_show":{  
+      "displayValue":false,
+      "value":false
+   },
+   "image_field":{  
+      "value":null,
+      "displayValue":""
+   },
+   "secondary_fields":{  
+      "value":null,
+      "displayValue":""
+   },
+   "panel_body_height":{  
+      "value":null,
+      "displayValue":""
+   },
+   "rounded_images":{  
+      "displayValue":false,
+      "value":false
+   },
+   "hide_footer":{  
+      "displayValue":true,
+      "value":true
+   }
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=b962bf73dba617004fef9015ca961905"/>
+</record_update>

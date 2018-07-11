@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_snc_cw_legal_matter" label="Project" max_length="40" name="x_snc_cw_legal_project" sizeclass="12" type="collection">
+        <element label="New Duration" max_length="40" name="u_glide_duration_1" type="glide_duration"/>
+    </element>
+</database>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_snc_cw_legal_project</basic_apply_to>
+        <basic_query_from>x_snc_cw_legal_table</basic_query_from>
+        <insert_callback/>
+        <name>Evidence</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+	current.addQuery('u_project_3',parent.number);
+
+})(current, parent);]]></query_with>
+        <reference_field>sn_hr_le_activity</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-14 19:09:10</sys_created_on>
+        <sys_id>e304f8c0db7a17004fef9015ca961905</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Evidence</sys_name>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sys_relationship_e304f8c0db7a17004fef9015ca961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-14 20:04:08</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=e304f8c0db7a17004fef9015ca961905"/>
+</record_update>

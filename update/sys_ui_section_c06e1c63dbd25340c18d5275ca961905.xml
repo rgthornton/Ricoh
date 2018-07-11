@@ -5,13 +5,13 @@
             <element>assigned_to</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>f6b5f4a7db165340c18d5275ca961993</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>85cde4bbdbde5340c18d5275ca9619cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,69 +19,83 @@
             <element>state</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>7ab5f4a7db165340c18d5275ca961993</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>4dcde4bbdbde5340c18d5275ca9619cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>cdcde4bbdbde5340c18d5275ca9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>fab5f4a7db165340c18d5275ca961993</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>41cde4bbdbde5340c18d5275ca9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>close_notes</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>7eb5f4a7db165340c18d5275ca961993</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>c1cde4bbdbde5340c18d5275ca9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_start</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>feb5f4a7db165340c18d5275ca961993</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>45cde4bbdbde5340c18d5275ca9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_end</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-31 19:39:46</sys_created_on>
-            <sys_id>72b5f4a7db165340c18d5275ca961994</sys_id>
+            <sys_created_on>2018-06-01 13:43:27</sys_created_on>
+            <sys_id>c5cde4bbdbde5340c18d5275ca9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="task" sys_domain="global" view="4c6e1c63dbd25340c18d5275ca961901">c06e1c63dbd25340c18d5275ca961905</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-31 19:39:46</sys_updated_on>
+            <sys_updated_on>2018-06-01 13:43:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

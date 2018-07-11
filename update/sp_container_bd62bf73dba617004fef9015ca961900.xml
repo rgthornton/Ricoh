@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Copy of CWL Index (1) - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="copy_of_cwl_index_1">21623f73dba617004fef9015ca9619bd</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-14 14:18:16</sys_created_on>
+        <sys_id>bd62bf73dba617004fef9015ca961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of CWL Index (1) - Container 3</sys_name>
+        <sys_package display_value="CW_Legal" source="x_snc_cw_legal">1e58bd29db5adb00c18d5275ca96194c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW_Legal">1e58bd29db5adb00c18d5275ca96194c</sys_scope>
+        <sys_update_name>sp_container_bd62bf73dba617004fef9015ca961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-14 14:18:16</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

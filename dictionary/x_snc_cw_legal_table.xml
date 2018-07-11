@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Evidence" max_length="40" name="x_snc_cw_legal_table" sizeclass="5" type="collection">
+    <element extends="task" label="Evidence" max_length="40" name="x_snc_cw_legal_table" sizeclass="15" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Client Reference Number" max_length="40" name="client_reference_number" type="string"/>
         <element choice="1" default="cd/dvd" label="Evidence type" mandatory="true" max_length="40" name="evidence_type" type="choice">
             <choice>
@@ -19,7 +19,7 @@
                 <element label="Tablet" sequence="12" value="tablet"/>
             </choice>
         </element>
-        <element label="Account" max_length="32" name="u_account_2" type="string"/>
+        <element label="Account" max_length="32" name="u_account_2" reference="core_company" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Box number" max_length="40" name="u_boxnumber" type="string"/>
         <element label="Characteristics" max_length="40" name="u_characteristics" type="longint"/>
         <element attributes="edge_encryption_enabled=true" label="Current storage" max_length="40" name="u_cstorage" type="string"/>
@@ -29,9 +29,15 @@
         <element attributes="edge_encryption_enabled=true" label="FTP Login" max_length="40" name="u_ftplogin" type="string"/>
         <element label="test" max_length="65536" name="u_html_1" type="html"/>
         <element label="Notes" max_length="40" name="u_notes" type="longint"/>
-        <element label="Project Manager" max_length="32" name="u_pm_4" type="string"/>
+        <element label="Project Manager" max_length="32" name="u_pm_4" reference="sys_user" type="reference"/>
         <element label="Project" max_length="32" name="u_project_3" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Received data size" max_length="40" name="u_rdatasize" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Received data size" max_length="40" name="u_rdatasize" type="choice">
+            <choice>
+                <element label="256MB" sequence="1" value="3"/>
+                <element label="1GB" sequence="2" value="1"/>
+                <element label="2GB" sequence="3" value="2"/>
+            </choice>
+        </element>
         <element label="test" max_length="32" name="u_reference_1" reference="core_company" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1gb" label="Storage Capacity" max_length="40" name="u_storagecapacity" type="string">
             <choice>
